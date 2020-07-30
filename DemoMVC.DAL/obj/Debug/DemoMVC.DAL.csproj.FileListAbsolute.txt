@@ -1,0 +1,11 @@
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\DemoMVC.DAL.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\DemoMVC.DAL.pdb
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\DemoMVC.Entities.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\DemoMVC.Entities.pdb
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\obj\Debug\DemoMVC.DAL.csprojAssemblyReference.cache
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\obj\Debug\DemoMVC.DAL.csproj.CoreCompileInputs.cache
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\obj\Debug\DemoMVC.DAL.csproj.CopyComplete
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\obj\Debug\DemoMVC.DAL.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\obj\Debug\DemoMVC.DAL.pdb
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\DemoMVC.Entities.dll.config
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.DAL\bin\Debug\EntityFramework.xml

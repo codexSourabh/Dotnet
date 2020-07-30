@@ -1,0 +1,12 @@
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\DemoMVC.Entities.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\DemoMVC.Entities.pdb
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\obj\Debug\DemoMVC.Entities.csprojAssemblyReference.cache
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\obj\Debug\DemoMVC.Entities.csproj.CoreCompileInputs.cache
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\obj\Debug\DemoMVC.Entities.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\obj\Debug\DemoMVC.Entities.pdb
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\DemoMVC.Entities.dll.config
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\EntityFramework.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\EntityFramework.SqlServer.dll
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\EntityFramework.xml
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\bin\Debug\EntityFramework.SqlServer.xml
+G:\VS Projects\DemoMVC.PresentationLayer\DemoMVC.Entities\obj\Debug\DemoMVC.Entities.csproj.CopyComplete
